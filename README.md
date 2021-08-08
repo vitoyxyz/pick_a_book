@@ -1,6 +1,6 @@
 ## Introduction
 
-This is a small automated app that picks the best book by genre by your choice from Amazon.
+This is a small automated app that picks the best book by genre by your choice from Amazon with puppeteer.
 
 **Prerequisites**
 
